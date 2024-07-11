@@ -1,3 +1,4 @@
-joaquin@fedora:~/Descargas/salary-script$ python -m venv venv
-joaquin@fedora:~/Descargas/salary-script$ source venv/bin/activate
-(venv) joaquin@fedora:~/Descargas/salary-script$ pip install -r requirements.txt
+## Install
+* python -m venv venv
+* source venv/bin/activate
+* pip install -r requirements.txt
